@@ -1,5 +1,5 @@
 ---
-username: Ankush-BHA
+username: BhatAnkush
 name: Ankush Ananth Bhat
 designation: Member 
 email: ankushbhataab@gmail.com
